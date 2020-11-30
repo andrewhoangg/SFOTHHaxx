@@ -1,4 +1,5 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+local username = game.Players.LocalPlayer.Name
 
 local UI = Material.Load({
      Title = "SFOTHHaxx",
